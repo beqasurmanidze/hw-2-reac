@@ -1,0 +1,11 @@
+.DarkFooter {
+  background-color: #dbdbdb;
+  display: flex;
+  justify-content: center;
+}
+
+.FooterCont {
+  background-color: #222222;
+  display: flex;
+  justify-content: center;
+}

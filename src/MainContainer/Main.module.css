@@ -1,0 +1,99 @@
+.mainContainer {
+  max-width: 2000px;
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #dbdbdb;
+}
+.lightContainer {
+  max-width: 2000px;
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #222222;
+}
+.lightEdit {
+  font-size: xx-large;
+  font-weight: 900;
+  color: #455174;
+}
+.textEdit {
+  font-size: xx-large;
+  font-weight: 900;
+  color: white;
+}
+
+.justP {
+  color: gray;
+  padding: 22px 0 22px 0;
+  font-size: x-large;
+}
+
+.button {
+  padding: 12px 24px;
+  color: white;
+  background-color: #455174;
+  border-radius: 10px;
+}
+
+.button:hover {
+  margin-bottom: 10px;
+  transition-duration: 1s;
+  background-color: white;
+  color: black;
+}
+
+.Twitter {
+  margin-top: 51px;
+  padding-right: 33px;
+}
+
+.WhatsApp {
+  margin-top: 51px;
+  padding-right: 33px;
+}
+
+.facebook {
+  margin-top: 51px;
+  padding-right: 33px;
+}
+.Instargram {
+  margin-top: 51px;
+  padding-right: 33px;
+}
+
+.InLogo {
+  margin-top: 51px;
+  padding-right: 33px;
+}
+
+.Twitter:hover {
+  transition-duration: 3s;
+  padding-top: 10px;
+}
+
+.WhatsApp:hover {
+  transition-duration: 1s;
+  padding-top: 10px;
+}
+
+.facebook:hover {
+  transition-duration: 1s;
+  padding-top: 10px;
+}
+.Instargram:hover {
+  transition-duration: 1s;
+  padding-top: 10px;
+}
+.InLogo:hover {
+  transition-duration: 1s;
+  padding-top: 10px;
+}
+
+.image {
+  margin-top: 155px;
+}
